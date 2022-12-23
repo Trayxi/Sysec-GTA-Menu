@@ -1,0 +1,85 @@
+
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
+F.31,AMI,HPQOEM - 1072009,4CE93627GC
+HP,8643
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,AuthenticAMD,178BFBFF00810F81
+Advanced Micro Devices, Inc.,AMD Radeon Graphics Processor (0x15D8),NVIDIA,NVIDIA GeForce GTX 1650
+Microsoft Windows 10 Famille|C:\WINDOWS|\Device\Harddisk1\Partition3,DESKTOP-SQ0SK9R,stephane.lequimme@gmail.com,00325-81480-03903-AAOEM
+\\.\PHYSICALDRIVE0,WDC WD10EZEX-60WN4A1,     WD-WCC6Y2CY7CAA
