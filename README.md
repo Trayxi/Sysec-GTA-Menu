@@ -1,3 +1,3 @@
 # Sysec-GTA-Menu
 
-discord.gg/Q2cKgHhX
+discord.gg/WxkHCp4ztk
